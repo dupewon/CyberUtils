@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# cyberutils
+
 A modern, high-performance cybersecurity toolkit for Go developers.
 =======
 # CyberUtils
